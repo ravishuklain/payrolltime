@@ -12,5 +12,6 @@ My name is Ravi Shukla and I'm a software developer. I'm living in New Jersey an
 </p>
 
 -----
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravishuklain&theme=dark&show_icons=true" />
 
 <h5 align="center"><a href="https://">Other places you can find me 🔗🔗</a> &nbsp; &nbsp; &nbsp; <a href="https://m">💌 Sign up for my newsletter</a></h5>
