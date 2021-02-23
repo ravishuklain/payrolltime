@@ -1,4 +1,4 @@
-<img src="https://github.com/ravishuklain/payrolltime/blob/main/wave_gif.gif" width="1024px">
+<img src="https://github.com/ravishuklain/payrolltime/blob/main/wave_gif.gif" width="1024px" height="400px">
 <p align="center">
 My name is Ravi Shukla and I'm a software developer. I'm living in New Jersey and currently working at Groundtruth. You can find me on LinkedIn https://www.linkedin.com/in/ravishukla/
 </p>
@@ -12,6 +12,8 @@ My name is Ravi Shukla and I'm a software developer. I'm living in New Jersey an
 </p>
 
 -----
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravishuklain&theme=dark&show_icons=true" />
+<a href="https://github.com/ravishuklain/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ravishuklain&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Ravi's GitHub Stats" />
+</a>
 
 <h5 align="center"><a href="https://">Other places you can find me 🔗🔗</a> &nbsp; &nbsp; &nbsp; <a href="https://m">💌 Sign up for my newsletter</a></h5>
